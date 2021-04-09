@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey There Friend 👋
 
 Me Name is Dor I am a motivated and results-driven Video Game Developer & Fullstack seeking employment where my skills can be utilized and grow professionally.
 
