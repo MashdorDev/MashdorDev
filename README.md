@@ -23,13 +23,13 @@ My Name is Dor I am a motivated and results-driven Video Game Developer & Fullst
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> 
 
 ---
-<p style ="text-align:center;">
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckrcok&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ckrcok&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 <!--
 **Ckrcok/Ckrcok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
