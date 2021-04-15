@@ -3,6 +3,8 @@
 My Name is Dor I am a motivated and results-driven Video Game Developer & Fullstack seeking employment where my skills can be utilized and grow professionally.
 
 ## You found my github page!
+<img src="https://img.shields.io/github/followers/Ckrcok?style=social" width="30px">
+
 ###### I hope you will enjoy looking around, you are also more than invited to go to my [Linkedin page](https://www.linkedin.com/in/dorz/).
 
 <!--
