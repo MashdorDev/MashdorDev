@@ -26,13 +26,15 @@ Bio
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></code>
 <code>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> </code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> </code>
-<code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> </code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></code>
 
 ---
 
 ## &#x1f4c8; My GitHub Stats
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ckrcok&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
