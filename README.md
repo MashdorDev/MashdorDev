@@ -3,7 +3,7 @@
 
 ## You found my github page!
 <img src="https://img.shields.io/github/followers/Ckrcok?style=social" width="120px">
-I hope you will enjoy looking around, you are also more than invited to go to my LinkedIn page <a href="https://www.linkedin.com/in/dorz/" ><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="15" height="15"/></a>
+I hope you will enjoy looking around, you are also more than invited to go to my LinkedIn page <a href="https://www.linkedin.com/in/dorz/" ><code><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="15" height="15"/></code></a>
  
  
 ---
