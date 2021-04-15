@@ -30,7 +30,7 @@ My Name is Dor I am a motivated and results-driven Video Game Developer & Fullst
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckrcok&show_icons=true,html,css,js&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckrcok&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ckrcok&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
