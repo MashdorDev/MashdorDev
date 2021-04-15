@@ -1,4 +1,4 @@
-# Hey There Friend 👋
+# Hey There Friend <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My Name is Dor I am a motivated and results-driven Video Game Developer & Fullstack seeking employment where my skills can be utilized and grow professionally.
 
