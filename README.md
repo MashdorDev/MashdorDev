@@ -29,6 +29,7 @@ Bio
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></code>
+<code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></code>
 
 ---
 
