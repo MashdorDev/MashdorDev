@@ -40,7 +40,7 @@ Bio
 [![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ckrcok&langs_count=10&theme=default&show_icons=true)](https://github.com/Ckrcok)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckrcok&langs_count=10&layout=compact&theme=default&show_icons=true)](https://github.com/Ckrcok)
 
-[![Dor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ddf56e4f-2136-4923-889e-630ca2a49d12)](https://github.com/anuraghazra/github-readme-stats)
+[![Dor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DorZairi )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ckrcok/Ckrcok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
