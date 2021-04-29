@@ -39,7 +39,6 @@ Bio
 
 [![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ckrcok&langs_count=10&theme=default&show_icons=true)](https://github.com/Ckrcok)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckrcok&langs_count=10&layout=compact&theme=default&show_icons=true)](https://github.com/Ckrcok)
-
 [![Dor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ckrcok)](https://wakatime.com/@Ckrcok)
 
 <!--
