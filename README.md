@@ -2,7 +2,7 @@
 
 
 ## You found my github page!
-<img src="https://img.shields.io/github/followers/Ckrcok?style=social" width="120px">
+<a href="/users/follow?target=Ckrcok"><img src="https://img.shields.io/github/followers/Ckrcok?style=social" width="120px"></a><br>
 I hope you will enjoy looking around, you are also more than invited to go to my LinkedIn page <a href="https://www.linkedin.com/in/dorz/" ><code><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="20" height="20"/></code></a>.
  
  
