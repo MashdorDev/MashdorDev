@@ -24,7 +24,7 @@ Bio
 <code><a href="https://en.wikipedia.org/wiki/postgresql">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/git"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/amazonwebservices">
+<code><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
