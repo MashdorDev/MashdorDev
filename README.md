@@ -29,7 +29,7 @@ Bio
 <code><a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/python"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
 
 ---
 
