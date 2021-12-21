@@ -16,22 +16,35 @@ Bio
 
 🧰 Toolbox
 
-<code><a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/html5"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript" width="50" height="50"/></a></code>
+###### Multi - Purpose Tool
 <code><a href="https://en.wikipedia.org/wiki/javascript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/nodejs"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/mongodb"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/postgresql">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScipt" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
+
+<code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/git"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a></code>
+
 <code><a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></a></code>
+
+
+###### FullStack Kit
+<code><a href="https://en.wikipedia.org/wiki/nodejs"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/html5"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/></a></code>
+
+<code><a href="https://en.wikipedia.org/wiki/mongodb"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/postgresql">
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
+
+<code><a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a></code>
+
+###### Game Development
+<code><a href="https://en.wikipedia.org/wiki/Unreal_Engine"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/800px-UE_Logo_Black_Centered.svg.png" alt="Unreal Engine" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Godot_(game_engine)"><img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot Engine" width="50" height="50"/></a></code>
 
 
 ---
@@ -44,17 +57,3 @@ Bio
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckrcok&langs_count=10&layout=compact&theme=default&show_icons=true)](https://github.com/Ckrcok)
 [![Dor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ckrcok)](https://wakatime.com/@Ckrcok)
 
-<!--
-**Ckrcok/Ckrcok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
