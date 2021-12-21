@@ -29,6 +29,12 @@ Bio
 <code><a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></a></code>
 
 
+
+###### Game Development
+<code><a href="https://en.wikipedia.org/wiki/Unreal_Engine"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/800px-UE_Logo_Black_Centered.svg.png" alt="Unreal Engine" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Godot_(game_engine)"><img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot Engine" width="50" height="50"/></a></code>
+
 ###### FullStack Kit
 <code><a href="https://en.wikipedia.org/wiki/nodejs"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/html5"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/></a></code>
@@ -41,10 +47,6 @@ Bio
 
 <code><a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a></code>
 
-###### Game Development
-<code><a href="https://en.wikipedia.org/wiki/Unreal_Engine"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/800px-UE_Logo_Black_Centered.svg.png" alt="Unreal Engine" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Unity_(game_engine)"><img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Godot_(game_engine)"><img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original-wordmark.svg" alt="Godot Engine" width="50" height="50"/></a></code>
 
 
 ---
