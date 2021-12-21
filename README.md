@@ -17,11 +17,12 @@ Bio
 🧰 Toolbox
 
 ###### Multi - Purpose Tool
+<code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/javascript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScipt" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
 
-<code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a></code>
+
+<code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/git"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a></code>
