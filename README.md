@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey There Friend <a  href="/follow?target=Ckrcok"><img src="https://img.shields.io/github/followers/Ckrcok?style=social" width="120px"></a><br>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey There Friend <img src="https://img.shields.io/github/followers/Ckrcok?style=social" width="120px"><br>
 
 
 #### You found my github page!
