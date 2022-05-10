@@ -47,7 +47,7 @@ Bio
 <code><a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
 
 <code><a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Django_(web_framework)"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Django_(web_framework)"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="50" height="50"/></a></code>
 
 
 ---
