@@ -57,8 +57,8 @@ Bio
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashdordev&langs_count=10&layout=compact&theme=dracula&show_icons=true)](https://github.com/Ckrcok)
-[![Dor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@mashdordev&layout=compact&langs_count=10&theme=dracula)](https://wakatime.com/@mashdordev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MashdorDev&langs_count=10&layout=compact&theme=dracula&show_icons=true)](https://github.com/MashdorDev)
+[![Dor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MashdorDev&layout=compact&langs_count=10&theme=dracula)](https://wakatime.com/@MashdorDev)
 
 
-[![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashdordev&langs_count=10&theme=dracula&show_icons=true)](https://github.com/mashdordev)
+[![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MashdorDev&langs_count=10&theme=dracula&show_icons=true)](https://github.com/MashdorDev)
