@@ -14,7 +14,7 @@ Bio
 ---
 🧰 Toolbox
 
-###### Multi - Purpose Tool
+###### Multi-Purpose Tool
 <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/javascript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/TypeScript"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScipt" width="50" height="50"/></a></code>
@@ -23,8 +23,7 @@ Bio
 
 <code><a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/git"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services">
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a></code>
 
 <code><a href="https://en.wikipedia.org/wiki/Npm_(software)"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Three.js"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.JS" width="50" height="50"/></a></code>
@@ -42,8 +41,7 @@ Bio
 <code><a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/></a></code>
 
 <code><a href="https://en.wikipedia.org/wiki/mongodb"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a></code>
-<code><a href="https://en.wikipedia.org/wiki/postgresql">
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a></code>
+<code><a href="https://en.wikipedia.org/wiki/postgresql"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a></code>
 <code><a href="https://en.wikipedia.org/wiki/Express.js"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/></a></code>
 
 <code><a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a></code>
@@ -55,12 +53,18 @@ Bio
 ## &#x1f4c8; My GitHub Stats
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
+  <a href="https://github.com/MashdorDev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MashdorDev&langs_count=10&layout=compact&theme=dracula&show_icons=true&" width=25% alt="Top Langs">
+  </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MashdorDev&langs_count=10&layout=compact&theme=dracula&show_icons=true&)](https://github.com/MashdorDev)
+  <a href="https://wakatime.com/@MashdorDev">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@MashdorDev&layout=compact&langs_count=10&theme=dracula&" alt="Dor's wakatime stats" width=25%>
+  </a>
 
+  <a href="https://github.com/MashdorDev">
+    <img src="https://github-readme-stats.vercel.app/api?username=MashdorDev&langs_count=10&theme=dracula&show_icons=true&" width=25% alt="Dor's GitHub stats">
+  </a>
 
-[![Dor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@MashdorDev&layout=compact&langs_count=10&theme=dracula&)](https://wakatime.com/@MashdorDev)
-
-
-[![Dor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MashdorDev&langs_count=10&theme=dracula&show_icons=true&)](https://github.com/MashdorDev)
+</div>
