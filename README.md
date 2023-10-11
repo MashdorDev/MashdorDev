@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> Hey There Friend 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="60px" width="60px" ><h1> Hey There, Friend! </h1> 
 
-#### You found my github page!
+#### You found my GitHub page!
 
-I hope you will enjoy looking around, you are also more than invited to go to my LinkedIn page <a href="https://www.linkedin.com/in/dorz/"><code><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30"/></code></a>.
+I hope you will enjoy looking around; you are also more than invited to go to my LinkedIn page <a href="https://www.linkedin.com/in/dorz/"><code><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30"/></code></a>.
  
  
 ---
